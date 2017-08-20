@@ -1,10 +1,11 @@
 var express = require('express');
 var app = express();
+var courses = require('./data/courses_data');
 
 app.set('port', (process.env.PORT || 5000));
 
 app.get('/', function(request, response) {
-  response.json({ a: 1 });
+  response.json(courses);
 });
 
 app.listen(app.get('port'), function() {

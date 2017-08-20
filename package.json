@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Harker Classes Server",
+  "version": "0.0.1",
+  "description": "A simple server to server Harker courses.",
   "engines": {
     "node": "6.11.1"
   },

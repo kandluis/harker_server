@@ -1,0 +1,188 @@
+[
+ {
+   "Course Name": "Principles of Business and Entrepreneurship",
+   "Course Type": "Business",
+   "Prerequisites": "None",
+   "Description": "The unique characteristic of this course is that it is in a mini-MBA format consisting of four separate modules to be touched upon throughout the year: marketing, accounting & finance, entrepreneurship, and strategy & management. The focus of the course is to deliver a broad-stroke approach to the students, providing essential concepts and principles that are brought into action through a capstone project and competitive event that each module requires. Once these concepts have been mastered and applied for each module, we will delve deeper into each subject through the research and discussion of Harvard Case Studies. Students will apply their learning and live the mantra “learn by doing” as they simulate roles of CEO, consultant, CFO, etc., to bring solutions to complex and extraordinary issues that companies/entrepreneurs often face. Because this is an Extra Period Option course, students may take this course in addition to their full academic loads. The course carries one-half credit for a full year of participation."
+ },
+ {
+   "Course Name": "Advanced Business: Operations and Management",
+   "Course Type": "Business",
+   "Prerequisites": "Principles of Business and Entrepreneurship",
+   "Description": "Students will develop deeper insight and domain expertise in finance, marketing, operations and accounting while building upon the foundation of business knowledge that students acquired in the Principles of Business and Entrepreneurship class. The goal of this class is to equip students with the practical knowledge and skills to launch and operate their own businesses"
+ },
+ {
+   "Course Name": "Business Leadership",
+   "Course Type": "Business",
+   "Prerequisites": "None",
+   "Description": "Appointed officers of The Harker School DECA chapter will utilize this course to prepare the chapter for competitive success, coordinate professional chapter events and conference logistics, and plan school and community outreach events. The group will be able to more fully collaborate in their leadership of the program and participate together in special opportunities for business professional and managerial preparedness. Officers of the DECA program must enroll in this noncredit, extra period class. Because this is an Extra Period Option course, students may take this course in addition to their full academic loads."
+ },
+ {
+   "Course Name": "Economics*",
+   "Course Type": "Business",
+   "Prerequisites": "None",
+   "Description": "This course is a survey course that will introduce students to the basic principles of economics, including both microeconomics and macroeconomics. Key topics include the fundamentals of economics, the theory of supply and demand, elasticity, price controls, market structures, the business cycle, monetary policy, and fiscal policy, among others. Additionally, students will be introduced to basic ideas surrounding personal finance. Students learn through reading, practice problems, simulations, videos and lecture."
+ },
+ {
+   "Course Name": "AP Economics",
+   "Course Type": "Business",
+   "Prerequisites": "None",
+   "Description": "This yearlong, college-level course, previously AP Microeconomics and AP Macroeconomics, begins with a focus on the principles of microeconomics as they pertain to individuals, businesses and organizations within the economic system. The course continues with a focus on the principles of macroeconomics that apply to the economic system as a whole. Students are prepared for the AP Microeconomics and AP Macroeconomics exams in the spring."
+ },
+ {
+   "Course Name": "Honors Advanced Topics in Economics: Game Theory",
+   "Course Type": "Business",
+   "Prerequisites": "AP Microeconomics.",
+   "Description": "Game Theory seeks to systematically explore the strategic interactions of humans in various contexts from international diplomatic relations to parents and children. Using models for understanding different players, their strategy options, and payouts, Game Theory can be used to predict the outcome of these strategic interactions given the assumption of rational actors. Different game types include: one-time simultaneous games, repeated games, sequential games, mixed strategy games, threats, promises and the manipulation of games, and possibly the strategy of auctions, negotiations and voting."
+ },
+ {
+   "Course Name": "Digital World",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Algebra 1",
+   "Description": "This course provides an introduction to exciting applications and topics in computer science. Using a combination of in-class discussions, hands-on projects, worksheets and guest speakers, students learn about digital representations, computational models and abstraction. The course is organized around the study of current topics in computer science. Although specific topics may vary, typical topics include bioinformatics, artificial intelligence, computer music, medical applications and social networking."
+ },
+ {
+   "Course Name": "Programming",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Geometry or Honors Geometry. UC approved.",
+   "Description": "This course helps entry-level computer science students develop their computational thinking skills by applying the basic steps in algorithmic problem solving and abstraction. Students apply modern software design techniques to strategize and communicate solutions and then develop a program that embodies their solutions. Throughout the course, students will increase their abstraction skills by analyzing complex problems and decomposing them into smaller more manageable problems and by so doing gain not only an appreciation of elegant solutions but also experience the thrill of obtaining them. Students will store objects in a data structure and then manipulate them, explore virtual worlds with robots, and fashion creatures of their own design while learning basic programming and algorithmic thinking skills. Programming is designed to fulfill the prerequisite for students who intend to pursue Advanced Placement Computer Science A."
+ },
+ {
+   "Course Name": "Advanced Programming",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Geometry or Honors Geometry with A- or better. UC approved.",
+   "Description": "This course helps students develop their computational thinking skills by applying the basic steps in algorithmic problem-solving and abstraction. Students apply software design techniques to strategize and communicate solutions and then develop a program that embodies their solutions. Students learn to use techniques such as inheritance, methods and recursion to break complex problems down into smaller, more manageable sub-problems. Students not only gain an appreciation of elegant solutions but also experience the thrill of obtaining them. Using one or more modern programming languages, students explore virtual worlds (Karel worlds, GridWorld and gameboards) while learning object-oriented programming skills such as creating classes, designing and implementing methods, and exploring inheritance. Students expand their programming skills by applying techniques like recursion to solve an adventure puzzle or game. Advanced Programming is a fast-paced course and is a prerequisite for the student who has an intense interest in computer science and intends to follow up this course with Advanced Placement Computer Science with Data Structures (i.e., data structures such as linked lists, stacks, queues, priority queues, trees, and maps). At completion, successful students are qualified for either AP Computer Science or AP Computer Science with Data Structures."
+ },
+ {
+   "Course Name": "Robotics Principles: Hardware*",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Programming or Advanced Programming. UC approved.",
+   "Description": "This one-semester, post-programming pre-calculusbased course will focus on the fundamental principles of robotics hardware. Students will learn about the key elements of drive trains, electrical systems, wirerouting, sensors, control interfaces, vision systems\nand manipulators. The students will learn about these\nconcepts through the dissection of Robotex Avatar\nMicro (version 1) military grade ground drones. The\nstudents will disassemble/reassemble, document and\nCAD the existing subsystems, learn about the design\nand operational elements, and subsequently design\nand fabricate their own manipulators that will interface\ninto the drones. A sufficient level of software will also\nbe covered to allow for the control of the custom\nmanipulators."
+ },
+ {
+   "Course Name": "Robotics Principles: Software",
+   "Course Type": "Computer Science",
+   "Prerequisites": ": Programming or Advanced Programming. UC approved",
+   "Description": "This one-semester, post-programming pre-calculusbased course will focus on the fundamental principles of robotics software. Students will learn about the key elements of digital and analog sensor data processing and actuator control, analog to digital converters, vision systems, control systems, feedback, state machine concepts, PID and fuzzy logic feedback control, control theory and software design and hardware simulation. Students will design and implement these concepts on small independent robotic platforms in order to understand the entire process of idea-design-developtest-implement. A sufficient level of hardware concepts will also be covered to allow for the control and development of custom manipulators."
+ },
+ {
+   "Course Name": "AP Computer Science",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Algebra 2/Trig. or Honors Algebra 2/ Trig. Programming with an A- or better, or Advanced Programming with a B or better. UC approved.",
+   "Description": "Students wishing to prepare for the AP Computer Science examination should complete this course or AP Computer Science with Data Structures. Equivalent to a first-semester college computer science course, APCS is an introduction to the study of algorithms and basic data structures. Using a modern programming language chosen by the College Board, students complete a series of programming projects designed to reinforce the theory learned. Emphasis is placed on good software engineering practices including problem\nspecification, design techniques, documentation and\ntesting. Students will practice their programming skills\nthrough the College Board-specified case study which\nrequires the modification of a large software project.\nCurrently, APCS uses the Java programming language."
+ },
+ {
+   "Course Name": "AP Computer Science with Data Structures",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Algebra 2/Trig. or Honors Algebra 2/\nTrig. Advanced Programming with a A- or better. UC\napproved.",
+   "Description": "The purpose of AP Computer Science with Data Structures is to challenge students who have demonstrated working mastery of and are current in fundamental programming concepts, since these may not be reviewed. The basic concepts include control structures, arrays, recursion, methods (including preconditions and post conditions) and well-designed structured code. A fitting candidate for this class possesses strong problem-solving skills and works independently, yet seeks help as needed. Specifically, this student has written numerous programs to solve math-based and array-based problems. Familiarity with object-oriented programming, particularly Java, greatly aids a student transitioning into this fast-paced, recursion-focused course"
+ },
+ {
+   "Course Name": "Honors Data Structures*",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Algebra 2/Trig. AP Computer Science with a B+ or better. UC approved.",
+   "Description": "Data Structures is a one-semester course that introduces elementary data structures and algorithms to students who are fluent in at least one programming language. It is taken by students who have completed AP Computer Science (not APCS with Data Structures), and is typical of the second course in computer science at most universities. Using a combination of programming assignments, worksheets and class discussions, students learn to use, create and analyze linked lists, smart arrays, binary trees, sets, stacks, queues, maps and heaps. Students study"
+ },
+ {
+   "Course Name": "Honors Advanced Topics in Computer Science",
+   "Course Type": "Computer Science",
+   "Prerequisites": "Prerequisites for all honors advanced topics in computer science courses will be: Data Structures with a B+ or better or AP Computer Science with Data Structures with a B+ or better. Subject to instructor approval. UC approved.",
+   "Description": "Following AP Computer Science with Data Structures or the semester-long Honors Data Structures course, students may continue their computer science studies with the Honors Advanced Topics courses. These semester-long courses are very challenging courses taught at the college level with semester-long projects replacing daily assignments. These courses rotate year to year with the options for the next school year published in December."
+ },
+ {
+   "Course Name": "Honors Advanced Topics in Computer Sci: Compilers and Interpreters",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "study of lexical and syntactic analysis, students learn how to use regular expressions, extended BackusNaur grammar specification and how to construct both deterministic and non-deterministic finite state automata. Students will construct a scanner and a recursive descent predictive parser for a subset of the Pascal programming language. Using an Abstract Syntax Tree as an intermediate representation, students will learn the basics of semantic analysis and will then turn their scanner and parser into an interpreter. Finally, students will study compiler backend processing and create a code emitter that will emit code for a MIPS processor. They will demonstrate their completed language translator by running the resulting MIPS machine code on a MIPS emulator. This course is similar in content to the Stanford University course CS143: Compilers."
+ },
+ {
+   "Course Name": "Honors Advanced Topics in Computer Sci: Computer Architecture",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "This course, offered every other year, introduces the student to modern computer architectures based on the Von Nuemann model. Students study Boolean algebra, digital logic and how a modern computer is constructed by building a simple 4-bit computer. Students design and build finite state machines and learn the relationship between finite state machines and computability. Students learn how a memory element can represent an arbitrary set of Boolean expressions. Students then investigate implementing various software strategies such as building stacks and lists using their homebrew computer."
+ },
+ {
+   "Course Name": "Honors Advanced Topics Computer Science: Expert Systems",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "This course will cover the history, concepts and implementation behind the theory and development of expert systems and why expert systems are a useful technology in the 21st century. The organizational concepts associated with spreadsheets (one-to-one), relational databases (one-to-many) and subsequently expert systems (many-to-many) will be examined. The operational details of expert system shells and specifically the RETE inferencing algorithm will be explored. The students will learn to develop expert systems using the Jess expert system shell, which was\ndeveloped by Sandia Labs (www.jessrules.com). The\nsemester work will culminate in a student project where\nthe students are required to develop an independent\nexpert system application, perform the knowledge\ncollection and engineering and then implement the\nsystem based on that knowledge collection. The\ncourse is similar in content to university courses on\nexpert systems such as Comp. Eng./Comp Sci. 371\n(University of Missouri)."
+ },
+ {
+   "Course Name": "Honors Advanced Topics Computer Science: Neural Networks",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "In this course the students will develop a basic\nunderstanding of parallel distributed processing (PDP)\nthrough the incremental development of artificial\nneural networks based on the fully connected feedforward\nmodel similar to the multilayer perceptron.\nThe students will develop an understanding of two\nmodels for memory and the differences between them:\nthe “image” model and the “connectivity” model. The\nstudents will learn the history of the development\nof artificial neural network technology, the structure\nand the components of an artificial neural network.\nThe students will build simple XOR networks from\nfirst principles and learn how they are trained and\nexperience the problems associated with execution\ntime and convergence. The construction of the network\nwill be done in testable incremental steps so that the\nstudents understand the low level functionality. The\nstudents will subsequently extend their basic network\nframework to deal with the more complex problem of\nimage recognition. This course is similar to university\nlevel courses such as CS-449: Neural Networks at\nWillamette University."
+ },
+ {
+   "Course Name": "Honors Advanced Topics Computer Science: Numerical Methods",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "This course is an introduction to the fundamental\nelements of numerical methods covering both the basic\npure mathematical elements as well as applications in\nmodeling physical systems that utilize those elements.\nThe course introduces basic numerical techniques\nfor finding roots and minima, solving systems of linear equations, integration and differentiation,\nsolving differential equations, and performing integral\ntransforms. These methodologies are then used\nto model systems that the students have seen in\ntheir physics courses. The students may work in any\ncomputer language in which they are proficient. The first\nhalf of the course is similar to COSC 250 - Introduction\nto Numerical Methods at Indiana University of\nPennsylvania and CS309 at Loyola University Chicago.\nThe application portion of this course is similar to\nPHYS 404 - Computational Techniques in Physics at the\nUniversity of Nevada, Las Vegas."
+ },
+ {
+   "Course Name": "Honors Advanced Topics Computer Science: Programming Languages",
+   "Course Type": "Computer Science",
+   "Prerequisites": "",
+   "Description": "This course is an introduction and overview to a number\nof programming languages including, but not limited\nto, Assembly (6502 and 8086), COBOL, C, FORTRAN,\nBASIC, PASCAL, LISP, FORTH and LabVIEW. Students\nwill learn the history, purpose, theory and use of each\nlanguage under study. The strengths and weaknesses\nof the languages are evaluated and students learn to\nwrite programs in each of them. They will examine data\nstorage in terms of stacks, registers, accumulators,\nprogram counters, segmented and flat memory models,\nRISC and CISC chip architecture, integer data types\n(both signed and unsigned), fixed point and floating\npoint storage, vectorization and simple strings. Students\nwill explore the elements of underflow, overflow, eps,\nmin, max, infinity and not-a-number representations and\nhow each language handles them. After the completion\nof the course students will have sufficient background to\nbe able to select an appropriate programming language\nthat can most effectively address any particular problem\nthat is under study"
+ },
+ {
+   "Course Name": "English 1: The Study of Literary Genres (1 year/1.0 unit)",
+   "Course Type": "English",
+   "Prerequisites": "None. UC approved.",
+   "Description": "In this course, students study a broad range of literature by reading works in multiple genres: lyric poetry, epic poetry, short and long fiction, and drama. Many of these selections feature variations on the archetypal journey of the hero. Students are introduced to literary criticism in the form of articles written about the course texts. Required readings include The Odyssey and A Raisin in the Sun. In addition, students read poetry by, among other poets, Shakespeare, Hayden, Pastan, Owen, Auden and Heaney; and short fiction by authors including Maupassant, Poe, Updike, Tan and García Márquez. All students also read one novel: The House on Mango Street (regular sections) or Their Eyes Were Watching God (honors). Written assignments include analytical essays, a personal narrative and researched writing. By composing multiple drafts and conferencing with their teachers about their work, students learn to progress beyond simple proofreading to thorough revision of both content and form. This course makes extensive use of The Bedford Handbook, reviews grammar topics, and helps students to incorporate this knowledge into their writing. By working with the text Vocabulary Workshop and studying new words in context, students increase their facility with the English language"
+ },
+ {
+   "Course Name": "English 2: A Survey of British Literature (1 year/1.0 unit)",
+   "Course Type": "English",
+   "Prerequisites": "English 1 or Honors English 1. UC approved.",
+   "Description": "Grade 10 introduces the students to British authors from the Middle Ages through the 20th century. Reading prose, poetry and drama that represents the major movements in British literature, students study these works in their respective social and historical"
+ },
+ {
+   "Course Name": "English 3: A Survey of American Literature (1 year/1.0 unit)",
+   "Course Type": "English",
+   "Prerequisites": "English 2 or Honors English 2. UC approved.",
+   "Description": "Grade 11 English focuses on major American authors who have shaped the scope of the American experience. The curriculum progresses chronologically, as it does in grade 10. Students will make thematic connections in works of fiction, essays and poetry across literary periods. Required readings include The Scarlet Letter, Huckleberry Finn and The Great Gatsby. In addition, students read selections from American literature that include short works and poems by the following authors: Bradstreet, Franklin, Paine, Poe, Emerson, Faulkner, Whitman, Dickinson, Jacobs, Douglass, Hughes, Bishop, Ellison, O’Connor, Rich and Plath. Students write papers that demonstrate a solid grasp of texts, literary terms and rhetorical patterns introduced in previous courses and hone their skills in argumentation."
+ },
+ {
+   "Course Name": "AP English: Literature and Composition",
+   "Course Type": "English",
+   "Prerequisites": "English 3 or Honors English 3 and departmental approval. UC approved.",
+   "Description": "This literature and composition component of Advanced Placement English develops students’ skills from previous study of British and American literature and"
+ },
+ {
+   "Course Name": "English 4: 20th-Century American Drama",
+   "Course Type": "Englsh",
+   "Prerequisites": "English 3 or Honors English 3 and departmental approval. UC approved.",
+   "Description": "This course explores the period of classic drama in the United States, as well as more contemporary works. Students will learn how to read scripts from a theatrical and literary perspective while considering the plays in their historical and cultural contexts. Viewing"
+ },
+ {
+   "Course Name": "English 4: 20th-Century American Poetics",
+   "Course Type": "English",
+   "Prerequisites": "English 3 or Honors English 3 and departmental approval. UC approved.",
+   "Description": "This course traces the development of the 20thcentury American poetic voice to help students acquire a deeper understanding of prosody and its power to express both personal and cultural concerns. While reading groundbreaking poets such as e.e. cummings, Gertrude Stein, Sylvia Plath, Elizabeth Bishop and Allen Ginsberg, students will also learn of the social, political and literary forces that led to specific poetic movements. As students examine poems, poetic statements, biographical excerpts, era film clips and interviews, they will consider relationships between the various poetic eras and become more comfortable reading and analyzing the work of later poets who tend to discard linear narrative in favor of image, sound, formal experimentation and abstraction. Students will even get a chance to write a few of their own original poems. Ultimately, by reviewing basic poetic literary techniques, this course aims to foster a love and excitement of poetry’s complexity and allow students to feel inspired by a poem that might have seemed otherwise incomprehensible."
+ },
+ {
+   "Course Name": "English 4: Asian Masterpieces",
+   "Course Type": "English",
+   "Prerequisites": "English 3 or Honors English 3 and departmental approval.",
+   "Description": "Most students have familiarity with the great epics and novels in the Western tradition which run the gamut from The Odyssey, to such novels as Huckleberry Finn. Certainly, these works and others represent keystones in their respective genres, but what of the Eastern literary tradition? In this light, Asian Masterpieces seeks to shine the light on the towering figures of modern writing from Asia Minor and the Indian Subcontinent, while simultaneously keeping its feet firmly planted on the grandiose and epic past of these cultures. The course will feature short fiction, novels and poetry, all the while exploring the shifting dichotomies of East and West and old and new, while developing a definition of the immigrant experience in a post-colonial and globalized age. The class will begin with classical texts that could include the mythical epics of India, Myanmar and Mongolia, and then shift focus to writers of the post-colonial era; which may include Rushdie, Lahiri, Pamuk, Gibran, Roy and others. Through reading, writing, group activity and spirited discussion, students will formulate their own individual answers to the question: How does Asia’s mythos influence the writing of the present, and what do modern writers in the Asian diaspora teach about creating meaning in a world wherein globalization blurs the line between East and West?"
+ },
+ {
+   "Course Name": "World History 1: Early Civilizations through the Renaissance",
+   "Course Type": "History",
+   "Prerequisites": "None. UC approved.",
+   "Description": "This course provides students with an overview of world history from early river valley civilizations through the early modern era (5000 B.C.E. – 1600 C.E.). Students will study all the principal political, social, economic, religious and intellectual developments of Europe, Africa, Asia and the Americas. All the major world religions are introduced and students will leave with an understanding of the world as an interconnected, dynamic, global society. Skills such as document evaluation, thesis construction, essay writing and the research process are introduced and practiced."
+ },
+ {
+   "Course Name": "World History 2",
+   "Course Type": "History",
+   "Prerequisites": "Work History 1",
+   "Description": "In this yearlong course, the period from the Scientific Revolution to the turn of the new century is studied (1600-2000 C.E.). The first semester focuses on Europe, and the second semester devotes one month each to Asia, South Asia, Africa and the Middle East. Political, economic, intellectual, social and artistic movements and ideas are studied. These include, but are not limited to, mercantilism and free market capitalism, political theory and governments from absolutism, to representative democracies, the Agricultural and Industrial Revolutions, imperialism, nationalism, militarism and socialism. Skills such as document evaluation, essay writing and the research process are practiced and emphasized."
+ },
+ {
+   "Course Name": "AP World History",
+   "Course Type": "History",
+   "Prerequisites": "World History 1 or World History 1 Honors and departmental approval. UC approved.",
+   "Description": "Intended to prepare students for the AP examination, students study the history of Asia, the Americas, Europe and Africa utilizing a thematic approach that covers change and continuity over time. Interaction among societies and regions; the impact of technology’s demographics and economics on both people and the environment; social structures in differing societies; political structures and organizations; and religious, cultural and intellectual developments are studied. The mastery of content material, analytical essay writing, the evaluation of primary source documents and historical research are also emphasized."
+ }
+]
