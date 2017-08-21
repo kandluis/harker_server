@@ -4,8 +4,12 @@ var courses = require('./data/courses_data');
 
 app.set('port', (process.env.PORT || 5000));
 
-app.get('/', function(request, response) {
+app.get('/courses', function(request, response) {
   response.json(courses);
+});
+
+app.get('/activities', function(request, response) {
+  response.json([]);
 });
 
 app.listen(app.get('port'), function() {
